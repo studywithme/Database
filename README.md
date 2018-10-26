@@ -5,3 +5,5 @@
 
 ## 데이터베이스 물리적 설계
 ### RDBMS(MySQL) 아키텍처 이해
+- MySQL InnoDB storage: http://rrhh234cm.tistory.com/142?category=691256
+- 
